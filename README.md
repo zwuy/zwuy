@@ -1,4 +1,6 @@
-### Hi there 👋
+### hi! 
+here's some stuff about me
+
 
 <!--
 **zwuy/zwuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
